@@ -45,7 +45,7 @@ public class Offer26 {
             right.left = pRootOfTree;
             pRootOfTree.right = right;
         }
-        
+
         return left != null ? left : pRootOfTree;
     }
 }
