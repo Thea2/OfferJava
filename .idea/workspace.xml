@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2d13acf-6e26-4214-8efe-4dda82f400a5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2d13acf-6e26-4214-8efe-4dda82f400a5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Offer43.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Offer43.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Offer43.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Offer44.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Offer44.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -81,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/Offer41.java" />
         <option value="$PROJECT_DIR$/src/Offer42.java" />
         <option value="$PROJECT_DIR$/src/Offer43.java" />
+        <option value="$PROJECT_DIR$/src/Offer44.java" />
       </list>
     </option>
   </component>
@@ -240,12 +248,12 @@
       <workItem from="1533364197202" duration="225000" />
       <workItem from="1533365422993" duration="494000" />
       <workItem from="1533443611713" duration="1784000" />
-      <workItem from="1533518506636" duration="448000" />
+      <workItem from="1533518506636" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50579000" />
+    <option name="totallyTimeSpent" value="51028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="717" extended-state="6" />
@@ -323,13 +331,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Offer5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Offer6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -679,7 +680,14 @@
     <entry file="file://$PROJECT_DIR$/src/Offer43.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Offer44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
